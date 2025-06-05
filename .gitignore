@@ -1,0 +1,12 @@
+# Node (Frontend)
+chatbot-frontend/node_modules/
+chatbot-frontend/.env
+
+# Java (Backend)
+chatbot-backend/target/
+chatbot-backend/.idea/
+*.iml
+
+# Sistema
+.DS_Store
+*.log
