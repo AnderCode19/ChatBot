@@ -30,6 +30,7 @@ cd ChatBotOpenAi
 ---
 
 🛠️ Configurar y ejecutar el backend
+
 📌 Requisitos:
 Java 17+
 Maven
@@ -41,6 +42,7 @@ openai.api.key=tu_clave_aqui
 💡 Nota: Puedes conseguir una clave en https://platform.openai.com/account/api-keys
 
 ▶️ Paso 2: Ejecutar el backend
+
 Desde la raíz del backend:
 cd chatbot-backend
 mvn spring-boot:run
@@ -49,6 +51,7 @@ El servidor quedará escuchando en:
 http://localhost:8080
 
 🌐 Configurar y ejecutar el frontend
+
 📌 Requisitos:
 Node.js
 npm
