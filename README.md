@@ -32,7 +32,6 @@ cd ChatBotOpenAi
 🛠️ Configurar y ejecutar el backend
 📌 Requisitos:
 Java 17+
-
 Maven
 
 🔑 Paso 1: Agrega tu clave API de OpenAI
@@ -52,7 +51,6 @@ http://localhost:8080
 🌐 Configurar y ejecutar el frontend
 📌 Requisitos:
 Node.js
-
 npm
 
 ▶️ Paso 1: Instalar dependencias
@@ -71,28 +69,19 @@ http://localhost:3000
 
 ✉️ ¿Cómo funciona?
 El usuario escribe un mensaje en la interfaz React.
-
 Se envía una petición al backend (Spring Boot) mediante /api/chat.
-
 El backend envía ese mensaje a la API de OpenAI.
-
 OpenAI devuelve una respuesta generada por IA.
-
 El backend la reenvía al frontend, donde se muestra al usuario.
 
 ---
 
 🧠 Tecnologías usadas
 React
-
 Spring Boot
-
 OpenAI API
-
 Java 17
-
 Node.js
-
 HTML + CSS
 
 ---
