@@ -1,4 +1,4 @@
->.[!CAUTION].
+>[!CAUTION]
 > La Api de OpenAi se debe pagar para poder utilizarla como si fuese (ChatGpt)
 
 # 🤖 ChatBot con React + Spring Boot + OpenAI
